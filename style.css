@@ -37,7 +37,7 @@ body{
   font-size: 1.2rem;
   background-color: #333;
   color: white;
-  border: none;
+  border: 1px solid #444;
   border-radius: 10px;
   cursor: pointer;
   
@@ -50,7 +50,7 @@ body{
 #equal{
   background-color: #ff9500;
   color: white;
-    
+
   grid-column: span 2; 
 }
 
